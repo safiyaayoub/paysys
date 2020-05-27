@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_systempay_card_system,systempay.card.system,model_systempay_card,base.group_system,1,1,1,1
+access_systempay_language_system,systempay.language.system,model_systempay_language,base.group_system,1,1,1,1
